@@ -41,5 +41,5 @@ client.on("message", async message => {
 
 
 
-client.login('MTAxNTU5NTk5NDI2MTQ5OTkyNQ.GkW_Ek.PMK3kxpqH_UMJE7J8ZJ04dfA5dhGHFpny3ebq0')
-//botun tokeni gircen keke
+client.login('')
+//botun tokeni gircen 
